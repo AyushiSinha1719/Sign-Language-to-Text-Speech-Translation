@@ -2,7 +2,7 @@
 This project focuses on real-time translation of word-level sign language into text and speech using CNN+LSTM and video processing. It aims to bridge the communication gap for individuals who rely on sign language.
 
 ## Key Features:
-* Translation of 20 words and 3 ISL words from sign language to text and speech.  Video-based gesture recognition using a CNN+LSTM model.  
+* Translation of 20 words and 3 words of ISL  from sign language to text and speech.  Video-based gesture recognition using a CNN+LSTM model.  
 * Speech synthesis via the pyttsx3 TTS engine.
 * Dataset: Indian Sign Word Level Dataset.
 * Total Size: 4,292 videos (263-word signs across 20 categories).
@@ -13,3 +13,8 @@ This system demonstrates an efficient and scalable approach to sign language rec
 ## Getting Started
 DataSet Link : [https://www.kaggle.com/datasets/abdallahalidev/plantvillage-dataset](https://zenodo.org/records/4010759)
 ### Download and Copy the Code inside a new Folder and open VS Code
+Unzip "eyzip" file and run each commands
+Processed videos for each words will be stored inside the same folder
+## Screenshots of the WebApp
+![Screenshot](s3.png)
+![Screenshot](s4.png)
