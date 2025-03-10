@@ -16,5 +16,5 @@ DataSet Link : [https://www.kaggle.com/datasets/abdallahalidev/plantvillage-data
 Unzip "eyzip" file and run each commands
 Processed videos for each words will be stored inside the same folder
 ## Screenshots of the WebApp
-![Screenshot](s3.png)
-![Screenshot](s4.png)
+![Screenshot](output-1.jpg)
+![Screenshot](output-2.jpg)
